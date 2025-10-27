@@ -145,6 +145,11 @@ while(player):
 ```
 ## Output:
 
+<img width="874" height="699" alt="1" src="https://github.com/user-attachments/assets/2101fb2a-d663-4675-906b-205e0c184147" />
+
+<img width="804" height="705" alt="2" src="https://github.com/user-attachments/assets/31d2a068-eb1a-45db-a2b4-f53e92781635" />
+
+<img width="571" height="420" alt="3" src="https://github.com/user-attachments/assets/798f66b5-14d1-4504-b9f2-76692cbb9e70" />
 
 
 
